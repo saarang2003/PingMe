@@ -1,0 +1,1 @@
+A chat app with with real time communication and group feature with qr code feature  
